@@ -19,6 +19,6 @@ O IDE recomendado é o Visual Studio Code (VSCode). O VSCode é um excelente IDE
 - Como fazer clone de um repositório utilizando o VSCode.
 
 ## Contactos
-LEIC-A/LEME:
+LEIC-A/LEME: [fp@dei.ist.utl.pt](mailto:fp@dei.ist.utl.pt) 
 
 LEIC-T/LETI: [fp-tagus@tecnico.ulisboa.pt](mailto:fp-tagus@tecnico.ulisboa.pt)
