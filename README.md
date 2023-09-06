@@ -1,4 +1,4 @@
-# Fundamentos da Programação LEIC/LETI/LEME
+# Fundamentos da Programação LEIC/LETI/LEME - Aulas laboratoriais
 
 Este repositório contém a coleção de exercícios de programação das aulas laboratoriais, em formato Jupyter Notebook. Para os alunos, este repositório é apenas de leitura. Assim recomenda-se clonar este repositório para o computador pessoal, no início do período, e trabalhar localmente. No entanto, os alunos podem optar por trabalhar de outras formas que lhes sejam mais convenientes, incluindo a escrita de scripts Python utilizando um editor ou um IDE da sua preferência, ou a resolução manuscrita dos exercícios num caderno. Links com informações relevantes sobre o Jupyter Notebook, GitLab e IDEs podem ser encontradas no fim do documento.
 
